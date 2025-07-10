@@ -49,3 +49,7 @@ a {
   text-decoration-color: #555;
   display: none!important;
 }
+
+p {
+  display: none!important;
+}

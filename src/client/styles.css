@@ -47,4 +47,5 @@ a {
   text-decoration-line: underline;
   text-underline-offset: 3px;
   text-decoration-color: #555;
+  display: none!important;
 }

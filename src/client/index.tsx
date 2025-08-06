@@ -102,7 +102,7 @@ function App() {
       {/* The canvas where we'll render the globe */}
       <canvas
         ref={canvasRef as LegacyRef<HTMLCanvasElement>}
-        style={{ width: 600, height: 600, maxWidth: "100%", aspectRatio: 1 }}
+        style={{ width: 400, height: 400, maxWidth: "100%", aspectRatio: 1 }}
       />
 
       {/* Let's give some credit */}
